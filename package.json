@@ -1,0 +1,16 @@
+{
+  "name": "pf-koa-test",
+  "version": "1.0.0",
+  "description": "Basic Koa project scaffold",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "koa": "^2.14.1",
+    "koa-bodyparser": "^4.4.1",
+    "koa-logger": "^3.2.1",
+    "koa-router": "^13.0.1",
+    "koa-static": "^5.0.0"
+  }
+}
